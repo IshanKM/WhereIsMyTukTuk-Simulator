@@ -1,0 +1,24 @@
+{
+  "name": "whereismytuktuk-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshanKM/WhereIsMyTukTuk-Simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshanKM/WhereIsMyTukTuk-Simulator/issues"
+  },
+  "homepage": "https://github.com/IshanKM/WhereIsMyTukTuk-Simulator#readme",
+  "dependencies": {
+    "axios": "^1.16.0"
+  }
+}
